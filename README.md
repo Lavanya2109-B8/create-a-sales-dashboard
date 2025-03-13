@@ -14,3 +14,5 @@
 
 DESCRIPTION: I HAVE SUCCESSFULLY COMPLETED MY TASK1 . I THINK IT WILL USEFUL IN MY CAREER GROWTH
 
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/8145db6f-07ca-4f26-9601-95e7ca3aee53)
